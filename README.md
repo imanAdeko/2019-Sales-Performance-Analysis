@@ -18,7 +18,7 @@ This project aims to provide comprehensive insights into a store's 2019 sales pe
 
 Below are links to the resources and my solutions:
 - [Zip file containing original project details](https://github.com/imanAdeko/2019-Sales-Performance-Analysis/blob/main/4th%20Edition%20Data%20Challenge%20Project%20Details.zip).
-- [Article documenting my thought process]().
+- [Article documenting my thought process](https://imanadeko.hashnode.dev/analyzing-product-sales-data-from-an-electronic-store).
 - [Sql script for data cleaning](https://github.com/imanAdeko/2019-Sales-Performance-Analysis/blob/main/4th%20edition%20data%20project%20sql%20scipt.sql).
 - [Power BI Report in pbix](https://github.com/imanAdeko/2019-Sales-Performance-Analysis/blob/main/Sale_2019.pbix)
 

@@ -12,6 +12,7 @@ This project aims to provide comprehensive insights into a store's 2019 sales pe
 ### Tools Used
 - SQL Server Management Studio (SSMS)
 - Microsoft Power BI
+- DAX
 - coolors.co for my report's color palette
 - iconbuddy.app for my report's icons
 

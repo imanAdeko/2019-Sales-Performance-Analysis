@@ -8,3 +8,16 @@ This project aims to provide comprehensive insights into a store's 2019 sales pe
 
 3. **Marketing Optimization**: Does data support the Assistant Manager's suggestion to prioritize marketing efforts in Los Angeles, New York, Atlanta, San Francisco, and Seattle? Should this strategy be pursued?
 
+
+### Tools Used
+- SQL Server Management Studio (SSMS)
+- Microsoft Power BI
+- coolors.co for my report's color palette
+- iconbuddy.app for my report's icons
+
+Below are links to the resources and my solutions:
+- [Zip file containing original project details](https://github.com/imanAdeko/2019-Sales-Performance-Analysis/blob/main/4th%20Edition%20Data%20Challenge%20Project%20Details.zip).
+- [Article documenting my thought process]().
+- [Sql script for data cleaning](https://github.com/imanAdeko/2019-Sales-Performance-Analysis/blob/main/4th%20edition%20data%20project%20sql%20scipt.sql).
+- [Power BI Report in pbix](https://github.com/imanAdeko/2019-Sales-Performance-Analysis/blob/main/Sale_2019.pbix)
+

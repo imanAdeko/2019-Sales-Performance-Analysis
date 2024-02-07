@@ -1,4 +1,4 @@
-This project aims to provide comprehensive insights into a store's 2019 sales performance, uncovering key trends, patterns, and metrics. Additionally, it will address specific questions concerning profitability, monthly performance, and optimal marketing focus.
+This project aims to provide comprehensive insights into an electronic store's 2019 sales performance, uncovering key trends, patterns, and metrics. Additionally, it will address specific questions concerning profitability, monthly performance, and optimal marketing focus.
 
 ### Key Questions:
 
